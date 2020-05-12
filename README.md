@@ -61,7 +61,7 @@ Specifically, students will learn to:
 ## Project: Auto Loan Credit Data
 
 - Data Files:
-[These files contain about 50 variables between them, and 14,042 records with data on auto loan customers’ credit history, application data, and deal characteristics (price of car purchased, etc.)](https://github.com/MehdiMahmoodi/Data_Mining/tree/master/Data%20File)
+These files contain about 50 variables between them, and 14,042 records with data on auto loan customers’ credit history, application data, and deal characteristics (price of car purchased, etc.)[Click here](https://github.com/MehdiMahmoodi/Data_Mining/tree/master/Data%20File)
 
   - [Week 2 - PA 1 - Logistic Regression with a Neural Network mindset](https://github.com/Kulbear/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
   - [Week 3 - PA 2 - Planar data classification with one hidden layer](https://github.com/Kulbear/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Planar%20data%20classification%20with%20one%20hidden%20layer.ipynb)
