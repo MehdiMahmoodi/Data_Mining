@@ -1,20 +1,62 @@
 # Data Mining
 
-**Master Deep Learning, and Break into AI**
+**Data Mining Techniques**
 
 Instructor: [Satish Nargundkar](http://www.nargund.com/gsu/mgs8040/index.htm)
 
+## Prerequisites
+
+You must already have knowledge of basic statistics, including Regression Analysis, to succeed in this course.
+
 ## Introduction
 
-This repo contains all my work for this specialization. All the code base, quiz questions, screenshot, and images, are taken from, unless specified, [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning).
+This repo covers various analytical techniques to extract managerial information from large data warehouses. A number of well-defined data mining tasks such as classification, estimation, prediction, affinity grouping and clustering, and data visualization are discussed. Design and implementation issues for corporate data warehousing are also addressed..
 
-## What I want to say
+## Detailed Course Description
 
-**VERBOSE CONTENT WARNING: YOU CAN JUMP TO THE NEXT SECTION IF YOU WANT**
+Data mining supports decision making by detecting patterns, devising rules, identifying new decision alternatives and making predictions. This course is organized around a number of well-defined data mining tasks: description, classification, estimation, prediction, and affinity grouping and clustering.  Students will learn to use techniques such as Rule Induction (classification trees), Logistic Regression, and Discriminant Analysis. Data visualization techniques will be used whenever possible to reveal patterns and relationships.  Students will use commercially available software tools to mine large databases.
 
-As a CS major student and a long-time self-taught learner, I have completed many CS related MOOCs on Coursera, Udacity, Udemy, and Edx. I do understand the hard time you spend on understanding new concepts and debugging your program. There are discussion forums on most MOOC platforms, however, even a question with detailed description may need some time to be answered. Here I released these solutions, which are **only for your reference purpose**. It may help you to save some time. And I hope you don't copy any part of the code (the programming assignments are fairly easy if you read the instructions carefully), see the quiz solutions before you start your own adventure. This course is almost the simplest deep learning course I have ever taken, but the simplicity is based on the fabulous course content and structure. It's a treasure given by deeplearning.ai team.
+The course is organized into 3 broad areas as follows:
 
-Currently, this repo has 3 major parts you may be interested in and I will give a list here.
+1)      Context/Data: Decision Support for Strategic Decision-making.  Preliminary data analysis
+
+2)      Predictive Analytics: Predictive models and evaluation: Discriminant Analysis, Trees
+
+3)      Segmentation/Association: Techniques like Clustering and Market Basket analysis.
+
+**Learning Outcomes/Course Objectives**
+
+Upon completion of the course, students will be able to work on real-life projects using relatively large datasets, to build and evaluate prediction and classification models, and segment populations.
+
+ 
+
+Specifically, students will learn to:
+
+1.       Apply analytics techniques within a general framework for decision support within organizations.
+
+2.       Interpret business requirements, organization structure, and translate that into data mining projects that help an organization meet their decision support needs.
+
+3.       Collect data, perform preliminary analyses including data aggregation, variable creation/transformation, and data cleaning.
+
+4.       Split data into training and validation samples. Use visual techniques to describe data.
+
+5.       Create Cross-tabulations for bivariate analysis.
+
+6.       Explain in your own words the assumptions of various techniques such as Cluster Analysis, Multiple Regression, Discriminant Analysis, Logistic Regression, and Artificial Neural Networks.
+
+7.       Build multiple regression, discriminant analysis, and Logistic models for forecasting.
+
+8.       Validate classification models using the Kolmogorov-Smirnov (K-S) test.                      
+
+9.       Interpret the output of Classification tree algorithms like CART and CHAID.
+
+10.   Segment data using Cluster Analysis, and interpret the output.
+
+11.   Discuss issues of implementation of the results of various techniques.
+
+12.   Develop methods to monitor the ongoing performance of implemented models.
+
+13.   Present an analytics project report to top management in plain language, with implications for business decision making clearly stated.
 
 ## Programming Assignments
 
