@@ -2,7 +2,7 @@
 
 **Data Mining Techniques**
 
-Instructor: [Satish Nargundkar](http://www.nargund.com/gsu/mgs8040/index.htm)
+Instructor: Mehdi Mahmoodi
 
 ## Prerequisites
 
