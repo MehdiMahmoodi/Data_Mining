@@ -63,8 +63,8 @@ Specifically, students will learn to:
 - Data Files:
 These files contain about 50 variables, and 14,042 records with data on auto loan customers’ credit history, application data, and deal characteristics (price of car purchased, etc.) [click here](https://github.com/MehdiMahmoodi/Data_Mining/tree/master/Data%20File)
 
-  - [Part_1: Loadind, merging, cleaning, and visualizing data](https://github.com/MehdiMahmoodi/Data_Mining/blob/master/Loading_Merging_cleaning_visualizing%20Data.ipynb)
-  - [Week 3 - PA 2 - Planar data classification with one hidden layer](https://github.com/Kulbear/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Planar%20data%20classification%20with%20one%20hidden%20layer.ipynb)
+  - [Loadind, merging, cleaning, and visualizing data Python Code](https://github.com/MehdiMahmoodi/Data_Mining/blob/master/Loading_Merging_cleaning_visualizing%20Data.ipynb)
+  - [Data cleaning article](https://github.com/MehdiMahmoodi/Data_Mining/blob/master/data_cleaning.pdf)
   - [Week 4 - PA 3 - Building your Deep Neural Network: Step by Step¶](https://github.com/Kulbear/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step.ipynb)
   - [Week 4 - PA 4 - Deep Neural Network for Image Classification: Application](https://github.com/Kulbear/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Network%20-%20Application.ipynb)
 
